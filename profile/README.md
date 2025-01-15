@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/pro-taku" target="_blank">
+      <a href="https://github.com/The-Martin-Kim" target="_blank">
         김한백
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/lyssva345" target="_blank">
+      <a href="https://github.com/941-life" target="_blank">
         이윤슬
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pro-taku" target="_blank">
+      <a href="https://github.com/kanade012" target="_blank">
         장영하
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/hyunbridge" target="_blank">
+      <a href="https://github.com/hangmin3320" target="_blank">
         조항민
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/941-life" target="_blank">
+      <a href="https://github.com/bibleme" target="_blank">
         정성경
       </a>
     </td>
