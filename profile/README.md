@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=더%20넓은%20바다로%20향하는%20우리들의%20여정&animation=fadeIn&fontColor=1c5eb4&fontSize=45" alt="header"/>
+    <img src="https://github.com/user-attachments/assets/2389d9c4-2082-4820-b254-364a1cfa0634">
 </p>
 
 
