@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e3982525-5680-41f2-961a-4b7429eb50fa" alt="AIIA_HEADER">
+    <img src="https://github.com/user-attachments/assets/2c50d376-15f7-49df-ab4f-616ef0703319" alt="AIIA_HEADER">
+
 </p>
 
 <h3 align="center">🐬 가천대학교 글로벌 캠퍼스 교내 유일 IT 플랫폼 탐구·개발 자율동아리</h3>
